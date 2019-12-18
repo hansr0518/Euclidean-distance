@@ -9,5 +9,5 @@ Calculate euclidean distance when the dataset is multi-dimensional
 import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
-'''
+```
 Upload sample of data (attached). 
