@@ -1,5 +1,5 @@
 # Euclidean-distance
-## Calculate euclidean distance when the dataset is multi-dimensional
+### Calculate euclidean distance when the dataset is multi-dimensional
 
 ![Data Description](https://github.com/hansr0518/Euclidean-distance/blob/master/Data%20Description.JPG)
 
